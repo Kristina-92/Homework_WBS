@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Spaghetti Bolognese",
+    "cuisine": "Italian",
+    "ingredients": {
+      "spaghetti": "200g",
+      "beef": "400g minced",
+      "onion": "1, chopped",
+      "garlic": "2 cloves, minced",
+      "tomatoes": "400g canned",
+      "olive oil": "2 tabs ",
+      "Salt": "1/2 ts",
+      "Pepper": "1/2 ts",
+      "Basil": "1/2 ts",
+      "Oregano": "1/2 ts"
+    },
+    "method": {
+      "firstStep": "Boil spaghetti according to package instructions.",
+      "secondStep": "In a pan, heat olive oil and sauté onion and garlic until softened.",
+      "thirdStep": "Add minced beef and cook until browned.",
+      "fourthStep": "Stir in canned tomatoes, salt, pepper, and herbs. Simmer for 15 minutes.",
+      "fifthStep": "Serve the sauce over the cooked spaghetti."
+    },
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes",
+    "servings": 2
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "cuisine": "American",
+    "ingredients": {
+      "chicken breasts": "2, grilled and sliced",
+      "romaine lettuce": "4 cups, chopped",
+      "Caesar dressing": "1/2 cup ",
+      "Parmesan cheese": "1/4 cup grated",
+      "Croutons": "2 ounces"
+    },
+    "method": {
+      "firstStep": "Grill the chicken breasts until cooked through.",
+      "secondStep": "Chop the lettuce and place it in a large bowl.",
+      "thirdStep": "Add grilled chicken, Caesar dressing, and toss to coat.",
+      "fourthStep": "Top with grated Parmesan cheese and croutons."
+    },
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "servings": 2
+  },
+  {
+    "name": "Margarita Pizza",
+    "cuisine": "Italian",
+    "ingredients": {
+      "dough": "1 pizza dough ",
+      "tomato sauce": "1/2 cup ",
+      "mozzarella cheese": "200g , sliced",
+      "basil": "3 fresh basil leaves",
+      "olive oil": "2 tbs",
+      "salt": "1/2 ts"
+    },
+    "method": {
+      "firstStep": "Preheat oven to 475°F (245°C).",
+      "secondStep": "Roll out the pizza dough on a floured surface.",
+      "thirdStep": "Spread tomato sauce evenly over the dough.",
+      "fourthStep": "Top with mozzarella cheese and drizzle with olive oil.",
+      "fifthStep": "Bake for 10-12 minutes until the crust is golden and cheese is melted.",
+      "sixthStep": "Garnish with fresh basil leaves and a pinch of salt."
+    },
+    "prep_time": "10 minutes",
+    "cook_time": "12 minutes",
+    "servings": 2
+  },
+  {
+    "name": "Classic Risotto",
+    "cuisine": "Italian",
+    "ingredients": {
+      "store-bought or homemade low-sodium chicken broth": "4 cups",
+      "unsalted butter, divided": "5 Tbsp.",
+      "onion": "1 medium white onion, finely chopped (about 1 1/2 c.)",
+      "salt": "2 1/2 tsp. kosher salt, divided",
+      "arborio or carnaroli rice": "1 1/2 cups",
+      "wine": "1 cup dry white wine",
+      "parmesan": "3 oz., finely grated (about 1 1/2 c.)",
+      "black pepper": "3/4 tsp."
+    },
+    "method": {
+      "firstStep": "In a medium pot over medium-high heat, heat broth until steaming. Reduce heat to low, cover, and keep warm.",
+      "secondStep": "Meanwhile, in a large skillet over medium heat, melt 4 tablespoons butter. Add onion and 1/2 teaspoon salt and cook, stirring occasionally, until softened, translucent, and sweet to the taste, 8 to 10 minutes. Add rice and cook, stirring occasionally, until translucent around the edges, 1 to 2 minutes more.",
+      "thirdStep": "Add wine and cook, stirring, until liquid is absorbed, 3 to 4 minutes. Add 3 cups warm broth, stir to incorporate, and bring to a simmer over medium-high heat. Reduce heat to medium-low, cover, and simmer until rice is just tender, 10 to 15 minutes.",
+      "fourthStep": "Uncover and add 1/2 cup warm broth. Return to a simmer over medium heat and continue to cook, stirring, until broth is absorbed, 1 to 2 minutes more. Taste and, if rice is still slightly al dente, add remaining 1/2 cup broth and continue to simmer, stirring, until absorbed and rice is tender.",
+      "fifthStep": "Remove from heat. Stir in Parmesan, pepper, and remaining 1 tablespoon butter until cheese and butter are melted; season with remaining 2 teaspoons salt, if needed. Serve immediately."
+    },
+    "prep_time": "10 minutes",
+    "cook_time": "35 minutes",
+    "servings": "4"
+  }
+]

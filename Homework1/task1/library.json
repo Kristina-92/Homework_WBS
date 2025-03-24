@@ -1,0 +1,63 @@
+[
+  {
+    "title": "The Decameron",
+    "author": "Giovanni Boccaccio",
+    "releaseYear": 1351,
+    "pages": 1024,
+    "isAvailable": true
+  },
+  {
+    "title": "Harry Potter and the Goblet of Fire",
+    "author": "J. K. Rowling",
+    "releaseYear": 2000,
+    "pages": 636,
+    "genre": "Fantasy fiction",
+    "isAvailable": false
+  },
+  {
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "releaseYear": 1942,
+    "pages": 185,
+    "isAvailable": true
+  },
+  {
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "releaseYear": 1861,
+    "pages": 194,
+    "isAvailable": false
+  },
+  {
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "releaseYear": 1719,
+    "pages": 320,
+    "genre": "Novel",
+    "isAvailable": true
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "releaseYear": 1988,
+    "pages": 208,
+    "genre": "Adventure fiction",
+    "isAvailable": false
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "releaseYear": 1960,
+    "pages": 281,
+    "genre": "Gothic novel",
+    "isAvailable": false
+  },
+  {
+    "title": "Captain Singleton",
+    "author": "Daniel Defoe",
+    "releaseYear": 1720,
+    "pages": 306,
+    "genre": "Adventure fiction",
+    "isAvailable": true
+  }
+]

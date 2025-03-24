@@ -1,0 +1,64 @@
+[
+  {
+    "name": "The Beatles",
+    "genre": "Rock",
+    "albums": [
+      "Abbey Road",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Rubber Soul"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Pink Floyd",
+    "genre": "Progressive Rock",
+    "albums": [
+      "The Dark Side of the Moon",
+      "The Wall",
+      "Wish You Were Here",
+      "Animals"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "name": "David Bowie",
+    "genre": "Rock",
+    "albums": [
+      "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "Heroes",
+      "Space Oddity",
+      "Young Americans"
+    ],
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Adele",
+    "genre": "Pop",
+    "albums": ["21", "25", "19", "30"],
+    "country": "United Kingdom"
+  },
+  {
+    "name": "Beyoncé",
+    "genre": "Pop, R&B",
+    "albums": [
+      "Dangerously in Love",
+      "B'Day",
+      "I Am... Sasha Fierce",
+      "Lemonade"
+    ],
+    "country": "United States"
+  },
+  {
+    "name": "Jon Bon Jovi",
+    "genre": "Pop rock, Arena rock, Rock",
+    "albums": [
+      "Slippery When Wet",
+      "Bon Jovi",
+      "These Days",
+      "Keep the Faith",
+      "Crush"
+    ],
+    "country": "United States"
+  }
+]

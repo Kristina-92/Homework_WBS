@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Buddy",
+    "species": "Dog",
+    "breed": "Golden Retriever",
+    "age": 3,
+    "gender": "Male",
+    "weight": 30,
+    "color": "Golden",
+    "vaccinated": true
+  },
+  {
+    "name": "Polly",
+    "species": "Parrot",
+    "breed": "Scarlet Macaw",
+    "age": 7,
+    "gender": "Female",
+    "weight": 1,
+    "color": "Red and Yellow",
+    "vaccinated": true
+  },
+  {
+    "name": "Mittens",
+    "species": "Cat",
+    "breed": "Siamese",
+    "age": 2,
+    "gender": "Female",
+    "weight": 4,
+    "color": "Cream",
+    "vaccinated": true
+  },
+  {
+    "name": "Charlie",
+    "species": "Dog",
+    "breed": "Beagle",
+    "age": 5,
+    "gender": "Male",
+    "weight": 12,
+    "color": "Tri-color",
+    "vaccinated": false
+  },
+  {
+    "name": "Whiskers",
+    "species": "Cat",
+    "breed": "British Shorthair",
+    "age": 4,
+    "gender": "Female",
+    "weight": 8,
+    "color": "Gray",
+    "vaccinated": true
+  }
+]

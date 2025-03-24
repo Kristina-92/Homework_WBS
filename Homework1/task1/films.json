@@ -1,0 +1,50 @@
+[
+  {
+    "title": "A Few Good Men",
+    "releaseYear": 1992,
+    "director": "Rob Reiner",
+    "genre": "thriller/crime"
+  },
+  {
+    "title": "The Devil Wears Prada",
+    "releaseYear": 2006,
+    "director": "David Frankel",
+    "genre": "comedy/drama"
+  },
+  {
+    "title": "The Dark Knight",
+    "releaseYear": 2008,
+    "director": "Christopher Nolan",
+    "genre": "action/crime"
+  },
+  {
+    "title": "The Butterfly Effect",
+    "releaseYear": 2004,
+    "director": "Eric Bress, J. Mackye Gruber",
+    "genre": "thriller/sci-fi"
+  },
+  {
+    "title": "Apollo 13",
+    "releaseYear": 1995,
+    "director": "Ron Howard",
+    "genre": "adventure/action"
+  },
+  {
+    "title": "Tomorrowland: A World Beyond",
+    "releaseYear": 2015,
+    "director": "Brad Bird",
+    "genre": "family/sci-fi"
+  },
+  {
+    "title": "Taken",
+    "releaseYear": 2008,
+    "director": "Pierre Morel",
+    "genre": "action/crime"
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "releaseYear": 2014,
+    "director": "Doug Liman",
+    "genre": "action/sci-fi"
+  }
+]
