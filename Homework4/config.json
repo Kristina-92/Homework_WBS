@@ -1,0 +1,18 @@
+{
+  "development": {
+    "port": 3000,
+    "MONGO_USERNAME": "",
+    "MONGO_PASSWORD": "",
+    "jwt_secret": "Your_secret"
+  },
+  "staging": {
+    "port": 3000,
+    "MONGO_USERNAME": "test",
+    "MONGO_PASSWORD": "test"
+  },
+  "live": {
+    "port": 8080,
+    "MONGO_USERNAME": "admin",
+    "MONGO_PASSWORD": "admin"
+  }
+}
